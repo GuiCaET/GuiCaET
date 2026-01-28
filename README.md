@@ -15,12 +15,13 @@
 
   <h2>Tecnologias que eu utilizo</h2>
 
-  <div align="center">
-    <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>  
-    <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"/>  
-    <img src="https://img.shields.io/badge/Git-%23E4405F?&style=for-the-badge&logo=git&logoColor=white"/> 
-  </div>
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/SQL-%23007ACC.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/> 
+</div>
+
 
   <h2>Contato</h2>
 
